@@ -1,0 +1,6 @@
+---
+  name: nmap
+  description: st2 content pack containing Nmap integrations.
+  version: 0.0.1
+  author: aparsons
+  email: adam@parsons.cloud
